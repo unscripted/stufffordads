@@ -77,24 +77,9 @@ endif;
   <?php endif; ?>
   
   <div id="toTop"><span>Top</span></div>
-  
-  <div id="container">
-    <header id="branding" class="block-bg">
-      
-      <!-- SITE LOGO -->
-      <?php if( of_get_option('site_logo') ): ?>
-      
-      <a id="logo" href="<?php echo home_url( '/' ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>">
-        <img alt="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?> logo" src="<?php echo of_get_option('site_logo'); ?>" />
-      </a>
-      
-      <?php else: ?>
-      
-      <a id="logo" class="logo-ph" href="<?php echo home_url( '/' ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>"></a>
-      
-      <?php endif; ?>
-      
-      <!-- SOCIAL LINKS -->
+  <div id="topbar">
+  	<div id="socialbar">
+	  <!-- SOCIAL LINKS -->
       
       <ul class="social-wrapper">
         <?php if( of_get_option('show_social') == '' || of_get_option('show_social') != '0' ): ?>
@@ -154,7 +139,31 @@ endif;
         
         <li class="clear"></li>
       </ul>
+
+    </div>
+  </div>
+    
+  <div id="container" style="margin-top:196px">
+    
+    <header id="branding" class="block-bg">
       
+      <!-- SITE LOGO -->
+      <?php if( of_get_option('site_logo') ): ?>
+      
+      <a id="logo" href="<?php echo home_url( '/' ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>">
+        <img alt="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?> logo" src="<?php echo of_get_option('site_logo'); ?>" />
+      </a>
+      
+      <?php else: ?>
+      
+      <a id="logo" class="logo-ph" href="<?php echo home_url( '/' ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>"></a>
+      
+      <?php endif; ?>
+      
+      <!-- AD SPOT -->
+      <div id="ad-leaderboard">(728x90)</div>
+      <!-- <div id="ad-banner">(468x60)</div> -->
+                  
       <!-- WP NAV MENU -->
       <nav>
       <?php if (has_nav_menu('header'))

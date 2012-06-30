@@ -1,0 +1,3010 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FullScene\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-18 01:06+0200\n"
+"PO-Revision-Date: 2012-02-18 01:06+0200\n"
+"Last-Translator: premitheme\n"
+"Language-Team: premitheme\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../about.php:39
+#: ../archives.php:31
+#: ../fullwidth.php:39
+#: ../home-composition.php:28
+#: ../home-composition.php:49
+#: ../home-composition.php:70
+#: ../home-composition.php:91
+#: ../home-composition.php:112
+#: ../home-composition.php:133
+#: ../page.php:25
+#: ../portfolio-grid-cat.php:46
+msgid "Pages:"
+msgstr ""
+
+#: ../about.php:43
+#: ../archives.php:34
+#: ../contact.php:157
+#: ../fullwidth.php:43
+#: ../functions.php:196
+#: ../functions.php:230
+#: ../home-composition.php:31
+#: ../home-composition.php:52
+#: ../home-composition.php:73
+#: ../home-composition.php:94
+#: ../home-composition.php:115
+#: ../home-composition.php:136
+#: ../page.php:28
+#: ../portfolio-grid-cat.php:47
+msgid "Edit"
+msgstr ""
+
+#: ../about.php:55
+msgid "Recent Work"
+msgstr ""
+
+#: ../archives.php:41
+msgid "Last 30 posts on the blog"
+msgstr ""
+
+#: ../archives.php:51
+msgid "Monthly Archives"
+msgstr ""
+
+#: ../archives.php:59
+msgid "Categories"
+msgstr ""
+
+#: ../archives.php:67
+msgid "Authors"
+msgstr ""
+
+#: ../archives.php:75
+msgid "Tag Cloud"
+msgstr ""
+
+#: ../comments.php:7
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:27
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:28
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:33
+#: ../comments.php:37
+msgid "Comments are closed for this post."
+msgstr ""
+
+#: ../comments.php:40
+msgid "Leave a comment"
+msgstr ""
+
+#: ../contact.php:36
+msgid "You forgot to enter your name."
+msgstr ""
+
+#: ../contact.php:44
+msgid "You forgot to enter your email address."
+msgstr ""
+
+#: ../contact.php:47
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: ../contact.php:55
+msgid "You forgot to enter your comments."
+msgstr ""
+
+#: ../contact.php:68
+msgid "You forgot to enter the security answer."
+msgstr ""
+
+#: ../contact.php:71
+msgid "You entered a wrong security answer."
+msgstr ""
+
+#: ../contact.php:123
+msgid "Contact Info"
+msgstr ""
+
+#: ../contact.php:128
+msgid "Address"
+msgstr ""
+
+#: ../contact.php:135
+msgid "Phone"
+msgstr ""
+
+#: ../contact.php:142
+msgid "Fax"
+msgstr ""
+
+#: ../contact.php:166
+msgid "Thanks, your email was successfully sent"
+msgstr ""
+
+#: ../contact.php:171
+msgid "There was an error submitting the form"
+msgstr ""
+
+#: ../contact.php:175
+msgid "All fields are required"
+msgstr ""
+
+#: ../contact.php:179
+msgid "Name"
+msgstr ""
+
+#: ../contact.php:185
+msgid "Email"
+msgstr ""
+
+#: ../contact.php:191
+msgid "Message"
+msgstr ""
+
+#: ../contact.php:206
+msgid "Send"
+msgstr ""
+
+#: ../functions.php:31
+#: ../functions.php:32
+msgid "978px"
+msgstr ""
+
+#: ../functions.php:33
+msgid "180x180 px"
+msgstr ""
+
+#: ../functions.php:62
+msgid "Main Navigation"
+msgstr ""
+
+#: ../functions.php:63
+msgid "Footer Navigation"
+msgstr ""
+
+#: ../functions.php:83
+msgid "Read more &raquo;"
+msgstr ""
+
+#: ../functions.php:87
+msgid "Details +"
+msgstr ""
+
+#: ../functions.php:196
+msgid "<span>Pingback:</span>"
+msgstr ""
+
+#: ../functions.php:208
+msgid "Says"
+msgstr ""
+
+#: ../functions.php:217
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:223
+#, php-format
+msgid "<span class=\"comment-date\">On <a href=\"%1$s\">%2$s</a></span>"
+msgstr ""
+
+#: ../functions.php:225
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions.php:229
+msgid "Reply"
+msgstr ""
+
+#: ../index.php:11
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../index.php:18
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../index.php:27
+msgid "Category Archives: "
+msgstr ""
+
+#: ../index.php:34
+msgid "Tag Archives: "
+msgstr ""
+
+#: ../index.php:43
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../index.php:45
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../index.php:47
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../index.php:49
+msgid "Blog Archives: "
+msgstr ""
+
+#: ../index.php:72
+msgid "Nothing found"
+msgstr ""
+
+#: ../index.php:75
+msgid "Sorry, no posts were found."
+msgstr ""
+
+#: ../options.php:31
+msgid "Select a category"
+msgstr ""
+
+#: ../options.php:39
+msgid "Select a page"
+msgstr ""
+
+#: ../options.php:54
+msgid "General Settings"
+msgstr ""
+
+#: ../options.php:57
+msgid "Site Logo"
+msgstr ""
+
+#: ../options.php:58
+msgid "Upload/Select image to be used as site logo. PNG, JPG or GIF images are allowed"
+msgstr ""
+
+#: ../options.php:62
+msgid "Favicon"
+msgstr ""
+
+#: ../options.php:63
+msgid "Upload/Select (ico) image 16x16 px to be used as favicon"
+msgstr ""
+
+#: ../options.php:67
+msgid "Apple Touch Devices Icon"
+msgstr ""
+
+#: ../options.php:68
+msgid "Upload/Select (png) image to be used as webclip icon for apple touch devices. MUST be 57x57 px"
+msgstr ""
+
+#: ../options.php:72
+msgid "Fixed Header/Footer Position (and page loading animations)"
+msgstr ""
+
+#: ../options.php:73
+msgid "Turn on/off fixed positioning for the header/footer and page loading animatins,"
+msgstr ""
+
+#: ../options.php:78
+msgid "Global Sidebar Position"
+msgstr ""
+
+#: ../options.php:79
+msgid "Select left/right sidebar position."
+msgstr ""
+
+#: ../options.php:89
+msgid "Global Blog Posts Comments On/Off"
+msgstr ""
+
+#: ../options.php:90
+msgid "Turn on/off the comments for blog posts"
+msgstr ""
+
+#: ../options.php:95
+msgid "Global Pages Comments On/Off"
+msgstr ""
+
+#: ../options.php:96
+msgid "Turn on/off the comments for pages"
+msgstr ""
+
+#: ../options.php:101
+msgid "Header Search Field"
+msgstr ""
+
+#: ../options.php:102
+msgid "Turn on/off the search field in the header section"
+msgstr ""
+
+#: ../options.php:107
+msgid "\"TimThumb\" Crop Location"
+msgstr ""
+
+#: ../options.php:108
+msgid "Select the area of image that will be cropped by \"TimThumb\", the image resizing plugin. This affects slider, portfolio previews, image shortcode, slider shortcode and gallery post format images, and doesn't affect some other images like thumbnails (featured images in general)."
+msgstr ""
+
+#: ../options.php:114
+msgid "Top"
+msgstr ""
+
+#: ../options.php:115
+msgid "Center"
+msgstr ""
+
+#: ../options.php:116
+msgid "Bottom"
+msgstr ""
+
+#: ../options.php:120
+msgid "Old IE Warning Message"
+msgstr ""
+
+#: ../options.php:121
+msgid "Turn on/off warning message for IE 8 or older versions,"
+msgstr ""
+
+#: ../options.php:126
+msgid "Footer Copyright Note"
+msgstr ""
+
+#: ../options.php:127
+msgid "Type your copy right note here. You can use some html tags like &lt;a href=\"\"&gt;&lt;/a&gt; and &lt;span class=\"\"&gt;&lt;/span&gt;"
+msgstr ""
+
+#: ../options.php:132
+msgid "Tracking Code"
+msgstr ""
+
+#: ../options.php:133
+msgid "Paste your Google Analytics code here"
+msgstr ""
+
+#: ../options.php:143
+msgid "Home Settings"
+msgstr ""
+
+#: ../options.php:146
+msgid "Fullscreen Slider Options"
+msgstr ""
+
+#: ../options.php:150
+#: ../options.php:186
+#: ../options.php:375
+msgid "Slide Delay"
+msgstr ""
+
+#: ../options.php:151
+#: ../options.php:376
+msgid "Enter slide animation delay time in milliseconds. e.g. 3500."
+msgstr ""
+
+#: ../options.php:157
+#: ../options.php:193
+#: ../options.php:235
+#: ../options.php:382
+msgid "Animation Effect"
+msgstr ""
+
+#: ../options.php:158
+#: ../options.php:194
+#: ../options.php:236
+#: ../options.php:383
+msgid "Select animation effect"
+msgstr ""
+
+#: ../options.php:164
+#: ../options.php:201
+#: ../options.php:389
+msgid "Fade"
+msgstr ""
+
+#: ../options.php:165
+#: ../options.php:390
+msgid "Slide"
+msgstr ""
+
+#: ../options.php:166
+#: ../options.php:391
+msgid "Carousel"
+msgstr ""
+
+#: ../options.php:170
+#: ../options.php:219
+#: ../options.php:250
+#: ../options.php:266
+msgid "Items Order"
+msgstr ""
+
+#: ../options.php:171
+#: ../options.php:220
+msgid "Change the order of the slider items by date or random order"
+msgstr ""
+
+#: ../options.php:177
+#: ../options.php:226
+#: ../options.php:257
+#: ../options.php:273
+msgid "By Date"
+msgstr ""
+
+#: ../options.php:178
+#: ../options.php:200
+#: ../options.php:227
+#: ../options.php:258
+#: ../options.php:274
+msgid "Random"
+msgstr ""
+
+#: ../options.php:182
+msgid "Nivo Slider Options"
+msgstr ""
+
+#: ../options.php:187
+msgid "Enter slide animation delay time in milliseconds. e.g. 3500. Enter 0 to disable auto play"
+msgstr ""
+
+#: ../options.php:202
+msgid "Fold"
+msgstr ""
+
+#: ../options.php:203
+msgid "Slice Down"
+msgstr ""
+
+#: ../options.php:204
+msgid "Slice Down Left"
+msgstr ""
+
+#: ../options.php:205
+msgid "Slice Up"
+msgstr ""
+
+#: ../options.php:206
+msgid "Slice Up Left"
+msgstr ""
+
+#: ../options.php:207
+msgid "Slice Up Down"
+msgstr ""
+
+#: ../options.php:208
+msgid "Slice Up Down Left"
+msgstr ""
+
+#: ../options.php:209
+msgid "Slide In Right"
+msgstr ""
+
+#: ../options.php:210
+msgid "Slide In Left"
+msgstr ""
+
+#: ../options.php:211
+msgid "Box Random"
+msgstr ""
+
+#: ../options.php:212
+msgid "Box Rain"
+msgstr ""
+
+#: ../options.php:213
+msgid "Box Rain Reverse"
+msgstr ""
+
+#: ../options.php:214
+msgid "Box Rain Grow"
+msgstr ""
+
+#: ../options.php:215
+msgid "Box Rain Grow Reverse"
+msgstr ""
+
+#: ../options.php:231
+msgid "Recent Work (Grid Navigation) Options"
+msgstr ""
+
+#: ../options.php:242
+msgid "Show Hide"
+msgstr ""
+
+#: ../options.php:243
+msgid "Sequential Up/Down"
+msgstr ""
+
+#: ../options.php:244
+msgid "Sequential Fade"
+msgstr ""
+
+#: ../options.php:245
+msgid "Disperse"
+msgstr ""
+
+#: ../options.php:246
+msgid "Rows Move"
+msgstr ""
+
+#: ../options.php:251
+msgid "Change the order of the grid showcase items by date or random order"
+msgstr ""
+
+#: ../options.php:262
+msgid "Recent Work (Row) Options"
+msgstr ""
+
+#: ../options.php:267
+msgid "Change the order of recent work items by date or random order"
+msgstr ""
+
+#: ../options.php:278
+msgid "Recent Posts Options"
+msgstr ""
+
+#: ../options.php:282
+msgid "Recent Posts Featured Image"
+msgstr ""
+
+#: ../options.php:283
+msgid "Turn on/off featured images for home recent posts."
+msgstr ""
+
+#: ../options.php:293
+msgid "Blog Settings"
+msgstr ""
+
+#: ../options.php:296
+msgid "Related Posts"
+msgstr ""
+
+#: ../options.php:297
+msgid "Turn on/off related posts in single post pages"
+msgstr ""
+
+#: ../options.php:302
+#: ../options.php:359
+msgid "Sharing Buttons"
+msgstr ""
+
+#: ../options.php:303
+msgid "Turn on/off sharing buttons in single post pages"
+msgstr ""
+
+#: ../options.php:308
+msgid "AddThis Username"
+msgstr ""
+
+#: ../options.php:309
+msgid "If you have AddThis account, enter you username"
+msgstr ""
+
+#: ../options.php:320
+msgid "Portfolio Settings"
+msgstr ""
+
+#: ../options.php:323
+msgid "General"
+msgstr ""
+
+#: ../options.php:327
+msgid "Portfolio Parent Page"
+msgstr ""
+
+#: ../options.php:328
+msgid "Select the parent portfolio page. This is necessary for some background functionality"
+msgstr ""
+
+#: ../options.php:333
+msgid "Items per Page"
+msgstr ""
+
+#: ../options.php:334
+msgid "Enter the number of portfolio items to be show per page. Leave it empty to show all items and disable portfolio pagination"
+msgstr ""
+
+#: ../options.php:340
+msgid "Portfolio Permalinks Base"
+msgstr ""
+
+#: ../options.php:341
+msgid "Customize the slug for portfolio items permalinks. This is useful if your portfolio items are something like music, products, books ...etc. e.g. \"products\", \"music\" ...etc without quotes, lowercase, <strong>AND YOU MUSTN'T</strong> set the same value for this slug and portfolio page's slug to avoid permalinks and pagination issues."
+msgstr ""
+
+#: ../options.php:347
+msgid "Filtering"
+msgstr ""
+
+#: ../options.php:348
+msgid "Turn on/off portfolio filtering feature"
+msgstr ""
+
+#: ../options.php:353
+msgid "Similar Items"
+msgstr ""
+
+#: ../options.php:354
+msgid "Turn on/off similar items in single portfolio pages"
+msgstr ""
+
+#: ../options.php:360
+msgid "Turn on/off sharing buttons in single portfolio pages"
+msgstr ""
+
+#: ../options.php:365
+msgid "Portfolio RSS Feeds"
+msgstr ""
+
+#: ../options.php:366
+msgid "Turn on/off portfolio items from showing up in the main RSS feeds"
+msgstr ""
+
+#: ../options.php:371
+msgid "Fullscreen Portfolio"
+msgstr ""
+
+#: ../options.php:400
+msgid "Team Settings"
+msgstr ""
+
+#: ../options.php:403
+msgid "Team Section"
+msgstr ""
+
+#: ../options.php:404
+msgid "Turn on/off team section in \"About Us\" template"
+msgstr ""
+
+#: ../options.php:409
+msgid "Team Section Label"
+msgstr ""
+
+#: ../options.php:410
+msgid "Change the text for team section heading"
+msgstr ""
+
+#: ../options.php:412
+msgid "Meet the team"
+msgstr ""
+
+#: ../options.php:420
+msgid "Contact Settings"
+msgstr ""
+
+#: ../options.php:423
+msgid "General Contact Information"
+msgstr ""
+
+#: ../options.php:427
+msgid "Contact Address"
+msgstr ""
+
+#: ../options.php:428
+msgid "Enter your contact address. You can add &lt;br/&gt; to break the address into multiple lines"
+msgstr ""
+
+#: ../options.php:433
+msgid "Phone Number"
+msgstr ""
+
+#: ../options.php:434
+msgid "Enter your phone number"
+msgstr ""
+
+#: ../options.php:439
+msgid "Fax Number"
+msgstr ""
+
+#: ../options.php:440
+msgid "Enter your fax number"
+msgstr ""
+
+#: ../options.php:445
+msgid "Contact Form Settings"
+msgstr ""
+
+#: ../options.php:449
+msgid "Contact Form Email Address (Never be published)"
+msgstr ""
+
+#: ../options.php:450
+msgid "Enter your email address that you want the contact form to send emails to. Leave it empty to use the admin email address instead"
+msgstr ""
+
+#: ../options.php:455
+msgid "Contact Form Subject"
+msgstr ""
+
+#: ../options.php:456
+msgid "Enter short subject for the received emails"
+msgstr ""
+
+#: ../options.php:461
+msgid "Use Simple Form Security Question"
+msgstr ""
+
+#: ../options.php:462
+msgid "Turn on/off the simple form security question."
+msgstr ""
+
+#: ../options.php:467
+msgid "Contact Form Security Question (math calculation)"
+msgstr ""
+
+#: ../options.php:468
+msgid "Enter a math calculation to validate that the sender is human (not robot)"
+msgstr ""
+
+#: ../options.php:474
+msgid "Contact Form Security Answer (the result)"
+msgstr ""
+
+#: ../options.php:475
+msgid "Enter the result for the calculation above. Note that the sender should use the exact answer (case sensitive)"
+msgstr ""
+
+#: ../options.php:481
+msgid "Google Map Settings"
+msgstr ""
+
+#: ../options.php:485
+msgid "Google Map Address"
+msgstr ""
+
+#: ../options.php:486
+msgid "Just enter an address (e.g. \"Melbourne, Australia\" but with details, not map embed code or map link."
+msgstr ""
+
+#: ../options.php:491
+msgid "Google Map Latitude (if not using address)"
+msgstr ""
+
+#: ../options.php:498
+msgid "Google Map Longitude (if not using address)"
+msgstr ""
+
+#: ../options.php:505
+msgid "Google Map Zoom Factor"
+msgstr ""
+
+#: ../options.php:506
+msgid "Increase/decrease google map zoom."
+msgstr ""
+
+#: ../options.php:512
+msgid "Google API Key"
+msgstr ""
+
+#: ../options.php:513
+msgid "Apply for Google API key <a href=\"http://code.google.com/apis/maps/signup.html\" target=\"_blank\">this link</a>(easy and takes 5 seconds) and copy/paste it here. It's required to show your google map."
+msgstr ""
+
+#: ../options.php:518
+msgid "Social Links Settings"
+msgstr ""
+
+#: ../options.php:522
+msgid "Social Links"
+msgstr ""
+
+#: ../options.php:523
+msgid "Turn on/off social links in the header and footer"
+msgstr ""
+
+#: ../options.php:528
+msgid "AIM"
+msgstr ""
+
+#: ../options.php:529
+msgid "Enter your AIM username"
+msgstr ""
+
+#: ../options.php:535
+msgid "Delicious"
+msgstr ""
+
+#: ../options.php:536
+#: ../options.php:543
+#: ../options.php:550
+#: ../options.php:557
+#: ../options.php:564
+#: ../options.php:571
+#: ../options.php:578
+#: ../options.php:585
+#: ../options.php:599
+#: ../options.php:606
+#: ../options.php:613
+#: ../options.php:620
+#: ../options.php:627
+#: ../options.php:648
+#: ../options.php:655
+#: ../options.php:662
+#: ../options.php:669
+#: ../options.php:683
+msgid "Enter your profile URL"
+msgstr ""
+
+#: ../options.php:542
+msgid "DeviantArt"
+msgstr ""
+
+#: ../options.php:549
+msgid "Digg"
+msgstr ""
+
+#: ../options.php:556
+msgid "Dribbble"
+msgstr ""
+
+#: ../options.php:563
+msgid "Facebook"
+msgstr ""
+
+#: ../options.php:570
+msgid "Flickr"
+msgstr ""
+
+#: ../options.php:577
+msgid "Forrst"
+msgstr ""
+
+#: ../options.php:584
+msgid "Google Plus"
+msgstr ""
+
+#: ../options.php:591
+msgid "GTalk"
+msgstr ""
+
+#: ../options.php:592
+msgid "Enter your Gmail address (will not be used as email address)"
+msgstr ""
+
+#: ../options.php:598
+msgid "Last FM"
+msgstr ""
+
+#: ../options.php:605
+msgid "LinkedIn"
+msgstr ""
+
+#: ../options.php:612
+msgid "Myspace "
+msgstr ""
+
+#: ../options.php:619
+msgid "Orkut"
+msgstr ""
+
+#: ../options.php:626
+msgid "Reddit"
+msgstr ""
+
+#: ../options.php:633
+msgid "RSS"
+msgstr ""
+
+#: ../options.php:634
+msgid "Enter your FeedBurner URL (http://feeds.feedburner.com/YOUR_URL)or any other feeds URL"
+msgstr ""
+
+#: ../options.php:640
+msgid "Skype"
+msgstr ""
+
+#: ../options.php:641
+msgid "Enter your Skype username"
+msgstr ""
+
+#: ../options.php:647
+msgid "Tumblr"
+msgstr ""
+
+#: ../options.php:654
+msgid "Twitter"
+msgstr ""
+
+#: ../options.php:661
+msgid "Vimeo"
+msgstr ""
+
+#: ../options.php:668
+msgid "WordPress.com"
+msgstr ""
+
+#: ../options.php:675
+msgid "Yahoo"
+msgstr ""
+
+#: ../options.php:676
+msgid "Enter your Yahoo username"
+msgstr ""
+
+#: ../options.php:682
+msgid "YouTube"
+msgstr ""
+
+#: ../options.php:694
+msgid "Style Settings"
+msgstr ""
+
+#: ../options.php:697
+msgid "Custom Colors Settings"
+msgstr ""
+
+#: ../options.php:701
+msgid "Starter Skin Color"
+msgstr ""
+
+#: ../options.php:702
+msgid "Select the light or dark skin color"
+msgstr ""
+
+#: ../options.php:712
+msgid "Custom Accent Color"
+msgstr ""
+
+#: ../options.php:713
+msgid "Select custom accent color"
+msgstr ""
+
+#: ../options.php:718
+msgid "Site Description Color"
+msgstr ""
+
+#: ../options.php:719
+msgid "Select custom color for site description/welcome message (if used)"
+msgstr ""
+
+#: ../options.php:724
+msgid "Custom Background Settings"
+msgstr ""
+
+#: ../options.php:728
+msgid "Custom Background Image"
+msgstr ""
+
+#: ../options.php:729
+msgid "Select/upload custom background image"
+msgstr ""
+
+#: ../options.php:733
+msgid "Fullscreen Background"
+msgstr ""
+
+#: ../options.php:734
+msgid "Turn on/off the fullscreen background option"
+msgstr ""
+
+#: ../options.php:739
+msgid "Background X position"
+msgstr ""
+
+#: ../options.php:740
+msgid "Enter \"left\", \"center\", \"right\" or value prefixed with \"px\" like \"200px\". All without quotes."
+msgstr ""
+
+#: ../options.php:745
+msgid "Background Y position"
+msgstr ""
+
+#: ../options.php:746
+msgid "Enter \"top\", \"center\", \"bottom\" or value prefixed with \"px\" like \"200px\". All without quotes."
+msgstr ""
+
+#: ../options.php:751
+msgid "Background Image Repeat"
+msgstr ""
+
+#: ../options.php:752
+msgid "Select background image repeat option."
+msgstr ""
+
+#: ../options.php:758
+#: ../options.php:773
+msgid "Select..."
+msgstr ""
+
+#: ../options.php:759
+msgid "No repeat"
+msgstr ""
+
+#: ../options.php:760
+msgid "Repeat all (Tile)"
+msgstr ""
+
+#: ../options.php:761
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../options.php:762
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../options.php:766
+msgid "Background Image Attachment"
+msgstr ""
+
+#: ../options.php:767
+msgid "Select background image attachment, fixed or scrollable."
+msgstr ""
+
+#: ../options.php:774
+msgid "Fixed"
+msgstr ""
+
+#: ../options.php:775
+msgid "Scrollable"
+msgstr ""
+
+#: ../options.php:779
+msgid "Custom Background Color"
+msgstr ""
+
+#: ../options.php:780
+msgid "Select custom background color"
+msgstr ""
+
+#: ../options.php:786
+msgid "Custom Font Settings"
+msgstr ""
+
+#: ../options.php:790
+msgid "Custom @Font-Face Stylesheet"
+msgstr ""
+
+#: ../options.php:791
+msgid "Paste the entire <code>&lt;link&gt;</code> tag of Google web font's (or custom @font-face) stylesheet."
+msgstr ""
+
+#: ../options.php:796
+msgid "Custom @Font-Face CSS Font Family"
+msgstr ""
+
+#: ../options.php:797
+msgid "Paste the CSS rule for the font family. e.g. <code>font-family: 'Font Name';</code> "
+msgstr ""
+
+#: ../options.php:802
+msgid "Custom CSS Settings"
+msgstr ""
+
+#: ../options.php:806
+msgid "Custom CSS"
+msgstr ""
+
+#: ../options.php:807
+msgid "Need to style specific elements? paste your custom css here"
+msgstr ""
+
+#: ../portfolio-grid-cat.php:24
+msgid "Show All"
+msgstr ""
+
+#: ../portfolio-grid-cat.php:24
+msgid "All"
+msgstr ""
+
+#: ../portfolio-grid-cat.php:29
+#, php-format
+msgid "Show %s Only"
+msgstr ""
+
+#: ../sidebar-page.php:28
+#: ../sidebar-single.php:31
+#: ../sidebar.php:54
+msgid "Archives"
+msgstr ""
+
+#: ../sidebar-page.php:35
+#: ../sidebar-single.php:38
+#: ../sidebar.php:61
+msgid "Meta"
+msgstr ""
+
+#: ../sidebar-single.php:10
+#: ../sidebar.php:33
+#, php-format
+msgid "<span>About the author</span> %s"
+msgstr ""
+
+#: ../sidebar-single.php:21
+#: ../sidebar.php:44
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: ../single-portfolio.php:43
+msgid "Go to next project"
+msgstr ""
+
+#: ../single-portfolio.php:46
+msgid "View all projects"
+msgstr ""
+
+#: ../single-portfolio.php:49
+msgid "Go to previous project"
+msgstr ""
+
+#: ../single-portfolio.php:182
+msgid "Similar Work"
+msgstr ""
+
+#: ../admin/options-framework.php:160
+#: ../admin/options-framework.php:217
+#: ../admin/options-framework.php:366
+msgid "Theme Options"
+msgstr ""
+
+#: ../admin/options-framework.php:235
+msgid " Any theme settings will be lost. Click OK to reset."
+msgstr ""
+
+#: ../admin/options-framework.php:267
+msgid "Default options restored"
+msgstr ""
+
+#: ../admin/options-framework.php:308
+msgid "Options saved"
+msgstr ""
+
+#: ../admin/options-medialibrary-uploader.php:26
+msgid "Options Framework Internal Container"
+msgstr ""
+
+#: ../admin/options-medialibrary-uploader.php:128
+msgid "Upload"
+msgstr ""
+
+#: ../admin/options-medialibrary-uploader.php:151
+msgid "View File"
+msgstr ""
+
+#: ../admin/options-medialibrary-uploader.php:288
+msgid "Gallery"
+msgstr ""
+
+#: ../admin/options-medialibrary-uploader.php:288
+msgid "Previously Uploaded"
+msgstr ""
+
+#: ../functions/pagination.php:15
+msgid "&laquo;"
+msgstr ""
+
+#: ../functions/pagination.php:16
+msgid "&raquo;"
+msgstr ""
+
+#: ../functions/pagination.php:20
+msgid "Page"
+msgstr ""
+
+#: ../functions/pagination.php:20
+msgid "of"
+msgstr ""
+
+#: ../functions/pagination.php:32
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../functions/pagination.php:33
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../functions/sidebars.php:5
+msgid "General Sidebar"
+msgstr ""
+
+#: ../functions/sidebars.php:7
+msgid "Drag widgets to this sidebar to be used with blog, single post or page. Page/Post sidebars (below) will override this sidebar if any of them has any widgets. Read the theme documentation for more info."
+msgstr ""
+
+#: ../functions/sidebars.php:15
+msgid "Single Post Sidebar"
+msgstr ""
+
+#: ../functions/sidebars.php:17
+msgid "This sidebar will be used for single post pages automatically if it has any widget. Read the theme documentation for more info."
+msgstr ""
+
+#: ../functions/sidebars.php:25
+msgid "Page Sidebar"
+msgstr ""
+
+#: ../functions/sidebars.php:27
+msgid "This sidebar will be used for pages automatically if it has any widget. Read the theme documentation for more info."
+msgstr ""
+
+#: ../functions/sidebars.php:35
+msgid "Footer Area One"
+msgstr ""
+
+#: ../functions/sidebars.php:37
+#: ../functions/sidebars.php:47
+#: ../functions/sidebars.php:57
+#: ../functions/sidebars.php:67
+msgid "An optional widget area for your site footer"
+msgstr ""
+
+#: ../functions/sidebars.php:45
+msgid "Footer Area Two"
+msgstr ""
+
+#: ../functions/sidebars.php:55
+msgid "Footer Area Three"
+msgstr ""
+
+#: ../functions/sidebars.php:65
+msgid "Footer Area Four"
+msgstr ""
+
+#: ../functions/widget-flickr.php:15
+msgid "Add flickr photostream to the sidebar"
+msgstr ""
+
+#: ../functions/widget-flickr.php:17
+msgid "Flickr Photostream"
+msgstr ""
+
+#: ../functions/widget-flickr.php:75
+#: ../functions/widget-portfolio.php:142
+#: ../functions/widget-posts-thumb.php:102
+#: ../functions/widget-twitter.php:64
+#: ../functions/widget-video.php:69
+msgid "Title"
+msgstr ""
+
+#: ../functions/widget-flickr.php:81
+msgid "ID"
+msgstr ""
+
+#: ../functions/widget-flickr.php:81
+msgid "Get yours from"
+msgstr ""
+
+#: ../functions/widget-flickr.php:87
+msgid "Photos to diplay"
+msgstr ""
+
+#: ../functions/widget-flickr.php:89
+#: ../functions/widget-flickr.php:99
+#: ../functions/widget-posts-thumb.php:110
+msgid "Select Option..."
+msgstr ""
+
+#: ../functions/widget-flickr.php:90
+msgid "Latest"
+msgstr ""
+
+#: ../functions/widget-flickr.php:97
+msgid "No. of photos"
+msgstr ""
+
+#: ../functions/widget-portfolio.php:15
+msgid "Show your recent work"
+msgstr ""
+
+#: ../functions/widget-portfolio.php:17
+msgid "Recent Work (Portfolio)"
+msgstr ""
+
+#: ../functions/widget-portfolio.php:148
+#: ../functions/metaboxes/page-metaboxes.php:49
+#: ../functions/metaboxes/page-metaboxes.php:358
+#: ../functions/metaboxes/page-metaboxes.php:430
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../functions/widget-portfolio.php:150
+msgid "Show all"
+msgstr ""
+
+#: ../functions/widget-portfolio.php:159
+msgid "No. of items (leave empty to show all)"
+msgstr ""
+
+#: ../functions/widget-posts-thumb.php:15
+msgid "Recent/Most commented posts with thumbnails"
+msgstr ""
+
+#: ../functions/widget-posts-thumb.php:17
+msgid "Posts with Thumbnails"
+msgstr ""
+
+#: ../functions/widget-posts-thumb.php:75
+msgid "0 comments"
+msgstr ""
+
+#: ../functions/widget-posts-thumb.php:75
+msgid "1 comment"
+msgstr ""
+
+#: ../functions/widget-posts-thumb.php:75
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: ../functions/widget-posts-thumb.php:77
+msgid "comments off"
+msgstr ""
+
+#: ../functions/widget-posts-thumb.php:108
+msgid "Posts to show"
+msgstr ""
+
+#: ../functions/widget-posts-thumb.php:111
+msgid "Recent posts"
+msgstr ""
+
+#: ../functions/widget-posts-thumb.php:112
+msgid "Most commented posts"
+msgstr ""
+
+#: ../functions/widget-posts-thumb.php:118
+msgid "No. of posts"
+msgstr ""
+
+#: ../functions/widget-twitter.php:15
+msgid "Add Twitter feeds to the sidebar"
+msgstr ""
+
+#: ../functions/widget-twitter.php:17
+msgid "Twitter Feeds"
+msgstr ""
+
+#: ../functions/widget-twitter.php:70
+msgid "Username"
+msgstr ""
+
+#: ../functions/widget-twitter.php:76
+msgid "No. of tweets"
+msgstr ""
+
+#: ../functions/widget-video.php:15
+msgid "Add video to the sidebar"
+msgstr ""
+
+#: ../functions/widget-video.php:17
+msgid "Video Embed"
+msgstr ""
+
+#: ../functions/widget-video.php:75
+msgid "Video URL"
+msgstr ""
+
+#: ../functions/widget-video.php:81
+msgid "Caption"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:4
+msgid "Portfolio Category Settings"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:5
+msgid "Content Sections Settings"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:6
+msgid "Callout Message Settings"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:7
+msgid "Slider Set Settings"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:8
+msgid "Video Banner Settings"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:9
+msgid "Fixed Image Banner Settings"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:10
+msgid "Recent Work (Grid Navigation) Settings"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:11
+msgid "Recent Work (Fixed Row) Settings"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:12
+msgid "Recent Posts Settings"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:13
+#: ../functions/metaboxes/portfolio-metaboxes.php:5
+#: ../functions/metaboxes/post-metaboxes.php:9
+msgid "Custom Fullscreen Background"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:59
+#: ../functions/metaboxes/page-metaboxes.php:368
+#: ../functions/metaboxes/page-metaboxes.php:390
+#: ../functions/metaboxes/page-metaboxes.php:440
+#: ../functions/metaboxes/page-metaboxes.php:490
+msgid "Select portfolio category to display its items"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:86
+msgid "First Section"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:102
+#: ../functions/metaboxes/page-metaboxes.php:122
+#: ../functions/metaboxes/page-metaboxes.php:142
+#: ../functions/metaboxes/page-metaboxes.php:162
+#: ../functions/metaboxes/page-metaboxes.php:182
+#: ../functions/metaboxes/page-metaboxes.php:202
+msgid "Select content type"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:106
+msgid "Second Section"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:126
+msgid "Third Section"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:146
+msgid "Fourth Section"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:166
+msgid "Fifth Section"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:186
+msgid "Sixth Section"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:222
+msgid "Callout Message"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:246
+msgid "Slider Set"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:256
+msgid "Select slider set to display its slides"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:260
+#: ../functions/metaboxes/page-metaboxes.php:320
+msgid "Image Height"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:262
+#: ../functions/metaboxes/page-metaboxes.php:322
+msgid "Enter the desired image's height"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:283
+#: ../functions/metaboxes/portfolio-metaboxes.php:146
+#: ../functions/metaboxes/post-metaboxes.php:79
+msgid "Remotely Hosted Video Embed Code (Use instead of the next field below for more controlled video embedding)."
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:285
+msgid "Enter the embed code of remotely-hosted video. Overrides the next field."
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:289
+#: ../functions/metaboxes/post-metaboxes.php:85
+msgid "Remotely Hosted Video URL (For easy embed, if not using embed code above)."
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:291
+msgid "Enter just the URL of the video page (auto embed). Only remotely-hosted videos supported (i.e. youtube, vimeo &hellip; etc)."
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:291
+#: ../functions/metaboxes/portfolio-metaboxes.php:154
+#: ../functions/metaboxes/post-metaboxes.php:87
+msgid "List of supported video hosts"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:291
+msgid "Always use the full absolute URL including \"http://\"."
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:313
+msgid "Image URL"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:316
+msgid "Image shouldn't be less than <strong>978px width</strong> with no height limitations. Always use the full absolute URL including \"http://\""
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:326
+msgid "Image Link (optional)"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:328
+msgid "Enter a link URL if you want the image to be hyperlinked to somewhere. Always use the full absolute URL including \"http://\""
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:353
+msgid "Recent Work Label"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:372
+msgid "Grid Rows"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:383
+msgid "Grid Folds"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:405
+#: ../functions/metaboxes/page-metaboxes.php:455
+msgid "Put some descriptive text here ..."
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:415
+msgid "Recent Work Label (For \"Recent work with description\" only)"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:420
+msgid "Recent Work Description (For \"Recent work with description\" only)"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:425
+msgid "\"View all\" button URL (For \"Recent work with description\" only)"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:454
+msgid "Recent Posts"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:465
+msgid "Recent Posts Label (For \"Recent posts with description\" only)"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:470
+msgid "Recent Posts Description (For \"Recent posts with description\" only)"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:475
+msgid "\"View all\" button URL (For \"Recent posts with description\" only)"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:480
+msgid "Blog Category"
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:510
+#: ../functions/metaboxes/portfolio-metaboxes.php:176
+#: ../functions/metaboxes/post-metaboxes.php:260
+msgid "Custom Fullscreen Background Image "
+msgstr ""
+
+#: ../functions/metaboxes/page-metaboxes.php:513
+msgid "Specify an image to be fullscreen BG for this page"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-metaboxes.php:4
+msgid "Portfolio Item Settings"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-metaboxes.php:42
+msgid "Client"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-metaboxes.php:44
+msgid "Visit Website"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-metaboxes.php:45
+msgid "Skills"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-metaboxes.php:54
+msgid "Completion Date"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-metaboxes.php:56
+msgid "e.g. \"Sep 2011\""
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-metaboxes.php:60
+msgid "Client Name"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-metaboxes.php:65
+msgid "Client Label"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-metaboxes.php:70
+msgid "Project URL (if applicable)"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-metaboxes.php:75
+msgid "Project Button's Text"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-metaboxes.php:80
+msgid "Skills Label"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-metaboxes.php:85
+msgid "Preview Image(s) Height"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-metaboxes.php:87
+msgid "You <strong>MUST</strong> set height if multiple images being used."
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-metaboxes.php:92
+msgid "Preview Image(s)"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-metaboxes.php:104
+msgid "+ Add Preview Image"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-metaboxes.php:105
+#, php-format
+msgid "All images MUSTN'T be less than <strong>%s width</strong> with no max/min height"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-metaboxes.php:148
+#: ../functions/metaboxes/post-metaboxes.php:81
+msgid "Enter the embed code of remotely-hosted video. Overrides the next fields. <strong>Tip:</strong> add <code>wmode=\"transparent\"</code> attribute to the iframe of embed code to prevent z-index issue with You Tube videos."
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-metaboxes.php:152
+msgid "Preview Video URL"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-metaboxes.php:154
+msgid "Overrides any preview images. Only remotely-hosted videos supported (i.e. youtube, vimeo &hellip; etc). Always use the full absolute URL including \"http://\"."
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-metaboxes.php:179
+msgid "Specify an image to be fullscreen BG for this portfolio item"
+msgstr ""
+
+#: ../functions/metaboxes/post-metaboxes.php:4
+msgid "\"Link\" Format Settings"
+msgstr ""
+
+#: ../functions/metaboxes/post-metaboxes.php:5
+msgid "\"Video\" Format Settings"
+msgstr ""
+
+#: ../functions/metaboxes/post-metaboxes.php:6
+msgid "\"Audio\" Format Settings"
+msgstr ""
+
+#: ../functions/metaboxes/post-metaboxes.php:7
+msgid "\"Quote\" Format Settings"
+msgstr ""
+
+#: ../functions/metaboxes/post-metaboxes.php:8
+msgid "\"Gallery\" Format Settings"
+msgstr ""
+
+#: ../functions/metaboxes/post-metaboxes.php:54
+msgid "Link URL"
+msgstr ""
+
+#: ../functions/metaboxes/post-metaboxes.php:56
+msgid "Insert the full absolute URL including \"http://\""
+msgstr ""
+
+#: ../functions/metaboxes/post-metaboxes.php:87
+msgid "Only remotely-hosted videos supported (i.e. youtube, vimeo &hellip; etc)."
+msgstr ""
+
+#: ../functions/metaboxes/post-metaboxes.php:87
+msgid "Always use the full absolute URL including \"http://\". Overrides the next fields."
+msgstr ""
+
+#: ../functions/metaboxes/post-metaboxes.php:91
+msgid "Self-hosted M4V Video File"
+msgstr ""
+
+#: ../functions/metaboxes/post-metaboxes.php:94
+msgid "MUST be provided. After uploading, copy/paste the file's URL manually."
+msgstr ""
+
+#: ../functions/metaboxes/post-metaboxes.php:98
+msgid "Self-hosted OGV/OGG Video File"
+msgstr ""
+
+#: ../functions/metaboxes/post-metaboxes.php:101
+msgid "MUST be provided, for better browser support. After uploading, copy/paste the file's URL manually."
+msgstr ""
+
+#: ../functions/metaboxes/post-metaboxes.php:105
+msgid "Self-hosted Video Poster Image"
+msgstr ""
+
+#: ../functions/metaboxes/post-metaboxes.php:108
+msgid "MUST be provided, to be shown before play."
+msgstr ""
+
+#: ../functions/metaboxes/post-metaboxes.php:112
+msgid "Self-hosted Video Height"
+msgstr ""
+
+#: ../functions/metaboxes/post-metaboxes.php:114
+msgid "MUST be provided, according to 649px width. Could be decimal number."
+msgstr ""
+
+#: ../functions/metaboxes/post-metaboxes.php:134
+msgid "Self-hosted MP3 Audio File"
+msgstr ""
+
+#: ../functions/metaboxes/post-metaboxes.php:137
+msgid "Required."
+msgstr ""
+
+#: ../functions/metaboxes/post-metaboxes.php:141
+msgid "Self-hosted OGA/OGG Audio File"
+msgstr ""
+
+#: ../functions/metaboxes/post-metaboxes.php:144
+msgid "Required, for better browser support."
+msgstr ""
+
+#: ../functions/metaboxes/post-metaboxes.php:163
+msgid "Quote Text"
+msgstr ""
+
+#: ../functions/metaboxes/post-metaboxes.php:165
+msgid "Insert the quote text here"
+msgstr ""
+
+#: ../functions/metaboxes/post-metaboxes.php:184
+msgid "Gallery Slider Height"
+msgstr ""
+
+#: ../functions/metaboxes/post-metaboxes.php:186
+msgid "Gallery slider height is a <strong>required</strong>. please insert height in pixels. e.g. 300"
+msgstr ""
+
+#: ../functions/metaboxes/post-metaboxes.php:191
+msgid "Gallery Slides"
+msgstr ""
+
+#: ../functions/metaboxes/post-metaboxes.php:203
+msgid "+ Add Slide Image"
+msgstr ""
+
+#: ../functions/metaboxes/post-metaboxes.php:263
+msgid "Specify an image to be fullscreen BG for this blog post"
+msgstr ""
+
+#: ../functions/metaboxes/slides-metaboxes.php:4
+msgid "Slide Settings"
+msgstr ""
+
+#: ../functions/metaboxes/slides-metaboxes.php:31
+msgid "Slide Image URL"
+msgstr ""
+
+#: ../functions/metaboxes/slides-metaboxes.php:34
+#, php-format
+msgid "Image MUSTN'T be less than <strong>%s width</strong> with no height limitations, but all the slides should be the same height. Always use the full absolute URL including \"http://\""
+msgstr ""
+
+#: ../functions/metaboxes/slides-metaboxes.php:38
+msgid "Slide Link (optional)"
+msgstr ""
+
+#: ../functions/metaboxes/slides-metaboxes.php:40
+msgid "Insert a link URL if you want the slide to be hyperliked to somewhere. Always use the full absolute URL including \"http://\""
+msgstr ""
+
+#: ../functions/metaboxes/slides-metaboxes.php:44
+msgid "Slide Caption - First Line (optional)"
+msgstr ""
+
+#: ../functions/metaboxes/slides-metaboxes.php:46
+msgid "First line caption text for this slide."
+msgstr ""
+
+#: ../functions/metaboxes/slides-metaboxes.php:50
+msgid "Slide Caption - Second Line (optional)"
+msgstr ""
+
+#: ../functions/metaboxes/slides-metaboxes.php:52
+msgid "Second line caption text for this slide."
+msgstr ""
+
+#: ../functions/metaboxes/slides-metaboxes.php:55
+msgid "<strong>Note:</strong> Go to <strong>Theme Options > Home Settings</strong> for the available customization options for the slider"
+msgstr ""
+
+#: ../functions/metaboxes/team-metaboxes.php:4
+msgid "Team Member Settings"
+msgstr ""
+
+#: ../functions/metaboxes/team-metaboxes.php:33
+msgid "Personal Photo"
+msgstr ""
+
+#: ../functions/metaboxes/team-metaboxes.php:36
+#, php-format
+msgid "Minimum <strong>%s</strong>. Always use the full absolute URL including \"http://\""
+msgstr ""
+
+#: ../functions/metaboxes/team-metaboxes.php:40
+msgid "Role"
+msgstr ""
+
+#: ../functions/metaboxes/team-metaboxes.php:42
+msgid "e.g. Designer"
+msgstr ""
+
+#: ../functions/metaboxes/team-metaboxes.php:48
+msgid "Enter personal twitter profile URL"
+msgstr ""
+
+#: ../functions/metaboxes/team-metaboxes.php:52
+msgid "Personal Website"
+msgstr ""
+
+#: ../functions/metaboxes/team-metaboxes.php:54
+msgid "Enter personal website URL"
+msgstr ""
+
+#: ../functions/metaboxes/team-metaboxes.php:58
+msgid "Bio"
+msgstr ""
+
+#: ../functions/metaboxes/team-metaboxes.php:60
+msgid "Short member's biography."
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:13
+msgid "Portfolio Items"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:14
+msgid "Portfolio Item"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:15
+msgid "Add New Item"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:16
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:18
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:19
+msgid "New Portfolio Item"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:20
+#: ../functions/post-types/portfolio-post-type.php:21
+msgid "View Portfolio Item"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:22
+msgid "Search Portfolio Items"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:23
+msgid "No Portfolio Items Found"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:24
+msgid "No Portfolio Items Found in Trash"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:26
+msgid "You can put your portfolio items here. They can be design work, photography, projects or any kind of content you want to showcase"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:56
+#: ../functions/post-types/portfolio-post-type.php:116
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:58
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:59
+msgid "Popular Portfolio Categories"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:60
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:61
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:62
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:63
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:64
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:65
+msgid "Separate Portfolio Categories With Commas"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:66
+msgid "Add or Remove Portfolio Categories"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:67
+msgid "Choose From Most Used Portfolio Categories"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:68
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:82
+msgid "Skill"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:83
+msgid "Search Skills"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:84
+msgid "Popular Skills"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:85
+msgid "All Skills"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:86
+msgid "Edit Skill"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:87
+msgid "Update Skill"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:88
+msgid "Add New Skill"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:89
+msgid "New PSkill Name"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:90
+msgid "Separate Skills With Commas"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:91
+msgid "Add or Remove Skills"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:92
+msgid "Choose From Most Used Skills"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:115
+#: ../functions/post-types/slides-post-type.php:90
+#: ../functions/post-types/team-post-type.php:55
+msgid "Thumbnail"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:117
+#: ../functions/post-types/slides-post-type.php:92
+#: ../functions/post-types/team-post-type.php:56
+msgid "Author"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:119
+#: ../functions/post-types/slides-post-type.php:93
+#: ../functions/post-types/team-post-type.php:57
+msgid "Date"
+msgstr ""
+
+#: ../functions/post-types/portfolio-post-type.php:139
+#: ../functions/post-types/portfolio-post-type.php:148
+#: ../functions/post-types/slides-post-type.php:111
+#: ../functions/post-types/slides-post-type.php:121
+#: ../functions/post-types/team-post-type.php:75
+#: ../functions/shortcodes/interface.php:215
+#: ../functions/shortcodes/interface.php:250
+#: ../functions/shortcodes/interface.php:285
+msgid "None"
+msgstr ""
+
+#: ../functions/post-types/slides-post-type.php:11
+msgid "Slides"
+msgstr ""
+
+#: ../functions/post-types/slides-post-type.php:13
+msgid "Add New slide"
+msgstr ""
+
+#: ../functions/post-types/slides-post-type.php:14
+msgid "Add New Slide"
+msgstr ""
+
+#: ../functions/post-types/slides-post-type.php:16
+msgid "Edit Slide"
+msgstr ""
+
+#: ../functions/post-types/slides-post-type.php:17
+msgid "New Slide"
+msgstr ""
+
+#: ../functions/post-types/slides-post-type.php:18
+#: ../functions/post-types/slides-post-type.php:19
+msgid "View Slide"
+msgstr ""
+
+#: ../functions/post-types/slides-post-type.php:20
+msgid "Search Slides"
+msgstr ""
+
+#: ../functions/post-types/slides-post-type.php:21
+msgid "No Slides Found"
+msgstr ""
+
+#: ../functions/post-types/slides-post-type.php:22
+msgid "No Slides Found in Trash"
+msgstr ""
+
+#: ../functions/post-types/slides-post-type.php:25
+msgid "Create, delete and edit slides for the home page slider"
+msgstr ""
+
+#: ../functions/post-types/slides-post-type.php:55
+msgid "Sets"
+msgstr ""
+
+#: ../functions/post-types/slides-post-type.php:57
+msgid "Search Slider Sets"
+msgstr ""
+
+#: ../functions/post-types/slides-post-type.php:58
+msgid "Popular Slider Sets"
+msgstr ""
+
+#: ../functions/post-types/slides-post-type.php:59
+msgid "All Slider Sets"
+msgstr ""
+
+#: ../functions/post-types/slides-post-type.php:60
+msgid "Edit Slider Set"
+msgstr ""
+
+#: ../functions/post-types/slides-post-type.php:61
+msgid "Update Slider Set"
+msgstr ""
+
+#: ../functions/post-types/slides-post-type.php:62
+msgid "Add New Set"
+msgstr ""
+
+#: ../functions/post-types/slides-post-type.php:63
+msgid "New Slider Set Name"
+msgstr ""
+
+#: ../functions/post-types/slides-post-type.php:64
+msgid "Separate Slider Sets With Commas"
+msgstr ""
+
+#: ../functions/post-types/slides-post-type.php:65
+msgid "Add or Remove Slider Sets"
+msgstr ""
+
+#: ../functions/post-types/slides-post-type.php:66
+msgid "Choose From Most Used Slider Sets"
+msgstr ""
+
+#: ../functions/post-types/slides-post-type.php:67
+msgid "Parent Slider Sets"
+msgstr ""
+
+#: ../functions/post-types/slides-post-type.php:91
+msgid "Slider Sets"
+msgstr ""
+
+#: ../functions/post-types/team-post-type.php:11
+msgid "Work Team"
+msgstr ""
+
+#: ../functions/post-types/team-post-type.php:12
+msgid "Team Member"
+msgstr ""
+
+#: ../functions/post-types/team-post-type.php:13
+#: ../functions/post-types/team-post-type.php:14
+msgid "Add New Member"
+msgstr ""
+
+#: ../functions/post-types/team-post-type.php:16
+msgid "Edit Member"
+msgstr ""
+
+#: ../functions/post-types/team-post-type.php:17
+msgid "New Member"
+msgstr ""
+
+#: ../functions/post-types/team-post-type.php:18
+msgid "View"
+msgstr ""
+
+#: ../functions/post-types/team-post-type.php:19
+msgid "View Member"
+msgstr ""
+
+#: ../functions/post-types/team-post-type.php:20
+msgid "Search Team Members"
+msgstr ""
+
+#: ../functions/post-types/team-post-type.php:21
+msgid "No Members Found"
+msgstr ""
+
+#: ../functions/post-types/team-post-type.php:22
+msgid "No Members Found in Trash"
+msgstr ""
+
+#: ../functions/post-types/team-post-type.php:25
+msgid "Create, delete and edit Team members to be shown in \"About us\" page template"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:2
+msgid "You are not allowed to be here"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:6
+msgid "Premitheme Shortcodes"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:24
+msgid "Select Shortcode"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:27
+msgid "Shortcode"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:29
+#: ../functions/shortcodes/interface.php:55
+#: ../functions/shortcodes/interface.php:80
+#: ../functions/shortcodes/interface.php:97
+#: ../functions/shortcodes/interface.php:143
+#: ../functions/shortcodes/interface.php:158
+#: ../functions/shortcodes/interface.php:313
+#: ../functions/shortcodes/interface.php:339
+#: ../functions/shortcodes/interface.php:405
+#: ../functions/shortcodes/interface.php:437
+msgid "Select Option &hellip;"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:30
+msgid "Layout Columns"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:31
+msgid "Typography"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:32
+msgid "Button"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:33
+msgid "Divider"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:34
+msgid "List"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:35
+msgid "Accordion"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:36
+msgid "Tabs"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:37
+msgid "Image"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:38
+msgid "Video"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:39
+msgid "Audio"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:40
+msgid "Testimonial"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:41
+msgid "Notification Box"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:42
+msgid "Service/Feature Block"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:43
+msgid "Image Slider"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:44
+msgid "Popup Box (lightbox)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:45
+msgid "Price Label"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:51
+msgid "Layout Columns Shortcode"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:53
+msgid "layout"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:56
+msgid "Full-width Column"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:57
+msgid "2 Columns"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:58
+msgid "3 Columns"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:59
+msgid "4 Columns"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:60
+msgid "5 Columns"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:61
+msgid "6 Columns"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:62
+msgid "1/4 + 3/4"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:63
+msgid "3/4 + 1/4"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:64
+msgid "1/3 + 2/3"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:65
+msgid "2/3 + 1/3"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:66
+msgid "1/4 + 1/2 + 1/4"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:67
+msgid "1/2 + 1/4 + 1/4"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:68
+msgid "1/4 + 1/4 + 1/2"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:72
+msgid "Select layout and \"Insert\" the shortcode"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:76
+msgid "Typography Shortcode"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:78
+msgid "Element"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:81
+msgid "Highlighted Text"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:82
+msgid "Dropcap Letter"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:83
+msgid "Blockquote"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:84
+msgid "Pullquote - Left Aligned"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:85
+msgid "Pullquote - Right Aligned"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:89
+msgid "Select element and \"Insert\" the shortcode"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:93
+msgid "Button Shortcode"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:95
+msgid "Button Color"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:98
+#: ../functions/shortcodes/interface.php:438
+msgid "Turquoise"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:99
+#: ../functions/shortcodes/interface.php:439
+msgid "Orange"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:100
+#: ../functions/shortcodes/interface.php:440
+msgid "Pink"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:101
+#: ../functions/shortcodes/interface.php:441
+msgid "Blue"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:102
+#: ../functions/shortcodes/interface.php:442
+msgid "Brown"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:103
+#: ../functions/shortcodes/interface.php:443
+msgid "Green"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:104
+#: ../functions/shortcodes/interface.php:444
+msgid "Purple"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:105
+#: ../functions/shortcodes/interface.php:445
+msgid "Light Gray"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:106
+#: ../functions/shortcodes/interface.php:446
+msgid "Dark Gray"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:112
+msgid "Button Text"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:113
+msgid "Sample Link"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:118
+msgid "Button URL"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:124
+msgid "Liquid Width"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:130
+msgid "Open Link in New Window"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:135
+#: ../functions/shortcodes/interface.php:236
+#: ../functions/shortcodes/interface.php:265
+#: ../functions/shortcodes/interface.php:300
+#: ../functions/shortcodes/interface.php:413
+#: ../functions/shortcodes/interface.php:429
+#: ../functions/shortcodes/interface.php:463
+#: ../functions/shortcodes/interface.php:505
+msgid "Customize and \"Insert\" the shortcode"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:139
+msgid "Divider Shortcode"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:141
+msgid "Type"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:144
+msgid "Standard Divider"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:145
+msgid "Standard Divider with Top Link"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:146
+msgid "Horizontal space"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:150
+#: ../functions/shortcodes/interface.php:166
+#: ../functions/shortcodes/interface.php:323
+msgid "Select type and \"Insert\" the shortcode"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:154
+msgid "List Shortcode"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:156
+msgid "List Type"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:159
+msgid "Arrow List"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:160
+msgid "Check List"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:161
+msgid "Square List"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:162
+msgid "Circle List"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:170
+msgid "Accordion Shortcode"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:171
+#: ../functions/shortcodes/interface.php:176
+#: ../functions/shortcodes/interface.php:305
+msgid "Now \"Insert\" the shortcode"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:175
+msgid "Tabs Shortcode"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:180
+msgid "Image Shortcode"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:182
+msgid "Image Path"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:188
+msgid "Image Width in Pixels"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:194
+msgid "Image Height in Pixels"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:197
+msgid "Leave height empty for auto height"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:201
+msgid "Alt Attribute Text"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:207
+msgid "Title Attribute Text"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:213
+#: ../functions/shortcodes/interface.php:248
+#: ../functions/shortcodes/interface.php:283
+msgid "Align"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:216
+#: ../functions/shortcodes/interface.php:251
+#: ../functions/shortcodes/interface.php:286
+msgid "Left"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:217
+#: ../functions/shortcodes/interface.php:252
+#: ../functions/shortcodes/interface.php:287
+msgid "Right"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:224
+msgid "Link URL (optional)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:227
+msgid "Insert the same image path to open in lightbox"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:231
+msgid "Image with frame"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:240
+msgid "Video Shortcode"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:259
+msgid "Video Width in Pixels"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:263
+msgid "Leave width empty for full width."
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:263
+msgid "List of supported video types"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:269
+msgid "Audio Shortcode"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:271
+msgid "MP3 File Path (required)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:277
+msgid "OGA File Path (required)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:294
+msgid "Unique ID"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:298
+msgid "This ID must be unique."
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:304
+msgid "Testimonial Shortcode"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:309
+msgid "Notification Box Shortcode"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:311
+msgid "Message Type"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:314
+msgid "Success"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:315
+msgid "Error"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:316
+msgid "Warning"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:317
+msgid "Idea"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:318
+msgid "Info"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:319
+msgid "General (no icon)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:327
+msgid "Service/Feature Block Shortcode"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:329
+msgid "Icon"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:333
+msgid "Icons Guide"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:341
+msgid "Small Size"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:342
+msgid "1- Clock Icon (small)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:343
+msgid "2- Tag/Label Icon (small)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:344
+msgid "3- Globe Icon (small)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:345
+msgid "4- Magnifier (small)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:346
+msgid "5- Gear Icon (small)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:347
+msgid "6- RSS Icon (small)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:348
+msgid "7- Screen/Computer Icon (small)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:349
+msgid "8- Message/Envelope Icon (small)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:350
+msgid "9- Add/Plus Icon (small)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:351
+msgid "10- Statistics/Chart Icon (small)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:352
+msgid "11- Check/Success Icon (small)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:353
+msgid "12- Food/Restaurants Icon (small)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:354
+msgid "13- Flag Icon (small)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:355
+msgid "14- Calendar Icon (small)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:356
+msgid "15- Inbox Icon (small)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:357
+msgid "16- Refresh Icon (small)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:358
+msgid "17- Speaker Icon (small)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:359
+msgid "18- Document/Paper Icon (small)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:360
+msgid "19- Home Icon (small)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:361
+msgid "20- Information Icon (small)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:362
+msgid "21- Shield Icon (small)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:363
+msgid "22- Help Icon (small)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:364
+msgid "23- Task List Icon (small)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:365
+msgid "24- VCard Icon (small)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:367
+msgid "Large Size"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:368
+msgid "1- Clock Icon (large)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:369
+msgid "2- Tag/Label Icon (large)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:370
+msgid "3- Globe Icon (large)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:371
+msgid "4- Magnifier (large)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:372
+msgid "5- Gear Icon (large)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:373
+msgid "6- RSS Icon (large)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:374
+msgid "7- Screen/Computer Icon (large)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:375
+msgid "8- Message/Envelope Icon (large)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:376
+msgid "9- Add/Plus Icon (large)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:377
+msgid "10- Statistics/Chart Icon (large)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:378
+msgid "11- Check/Success Icon (large)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:379
+msgid "12- Food/Restaurants Icon (large)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:380
+msgid "13- Flag Icon (large)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:381
+msgid "14- Calendar Icon (large)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:382
+msgid "15- Inbox Icon (large)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:383
+msgid "16- Refresh Icon (large)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:384
+msgid "17- Speaker Icon (large)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:385
+msgid "18- Document/Paper Icon (large)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:386
+msgid "19- Home Icon (large)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:387
+msgid "20- Information Icon (large)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:388
+msgid "21- Shield Icon (large)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:389
+msgid "22- Help Icon (large)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:390
+msgid "23- Task List Icon (large)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:391
+msgid "24- VCard Icon (large)"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:397
+msgid "Service/Feature Title"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:403
+msgid "Layout"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:406
+msgid "Icon on left"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:407
+msgid "Icon on right"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:408
+msgid "Icon on top"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:417
+msgid "Image Slider Shortcode"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:419
+msgid "Slider Width in Pixels"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:425
+msgid "Slider Height in Pixels"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:433
+msgid "Popup Box Shortcode"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:435
+msgid "Trigger Button Color"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:452
+msgid "Trigger Button Text"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:458
+msgid "Popup ID"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:461
+msgid "Must be unique ID, Don't use it in multiple popups"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:467
+msgid "Price Label Shortcode"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:469
+msgid "Column Size"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:472
+msgid "Full Width"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:473
+msgid "One Half"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:474
+msgid "One Third"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:475
+msgid "One Fourth"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:476
+msgid "One Fifth"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:477
+msgid "One Sixth"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:483
+msgid "Item Name"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:489
+msgid "Item Price"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:495
+msgid "Price Suffix (optional e.g \"/month\")"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:501
+msgid "Make this featured Item"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:513
+msgid "Insert"
+msgstr ""
+
+#: ../functions/shortcodes/interface.php:514
+msgid "Close"
+msgstr ""
+
+#: ../includes/content-aside.php:5
+#: ../includes/content-audio.php:7
+#: ../includes/content-gallery.php:8
+#: ../includes/content-link.php:6
+#: ../includes/content-masonry-aside.php:5
+#: ../includes/content-masonry-audio.php:5
+#: ../includes/content-masonry-gallery.php:5
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../includes/content-aside.php:14
+#: ../includes/content-audio.php:67
+#: ../includes/content-gallery.php:46
+#: ../includes/content-link.php:19
+#, php-format
+msgid "Posted in %s"
+msgstr ""
+
+#: ../includes/content-aside.php:15
+#: ../includes/content-audio.php:68
+#: ../includes/content-gallery.php:47
+#: ../includes/content-link.php:20
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ../includes/content-aside.php:18
+#: ../includes/content-audio.php:71
+#: ../includes/content-gallery.php:50
+#: ../includes/content-link.php:23
+msgid "Leave comment"
+msgstr ""
+
+#: ../includes/content-link.php:12
+msgid "[Link]"
+msgstr ""
+
+#: ../includes/recent-posts-desc.php:31
+#: ../includes/recent-work-desc.php:49
+msgid "View all"
+msgstr ""
+

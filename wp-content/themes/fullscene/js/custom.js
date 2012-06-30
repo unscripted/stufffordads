@@ -225,13 +225,13 @@ $(function() {
 // HEADER SEARCh FIELD EFFECT
 /*----------------------------------------------------*/
 
-$("#branding .header-search").animate({ width: '25px'}, 800, 'easeInOutExpo');
-$("#branding input:text").animate({ width: '25px', paddingLeft: '0', paddingRight: '0' }, 800, 'easeInOutExpo');
-$("#branding input:text").focus(function() {
+$("#topbar .header-search").animate({ width: '25px'}, 800, 'easeInOutExpo');
+$("#topbar input:text").animate({ width: '25px', paddingLeft: '0', paddingRight: '0' }, 800, 'easeInOutExpo');
+$("#topbar input:text").focus(function() {
   $(this).animate({ width: '100px', paddingLeft: '10px', paddingRight: '25px' }, 800, 'easeInOutExpo');
   $(this).parent().parent().animate({ width: '135px'}, 800, 'easeInOutExpo');
 });
-$("#branding input:text").blur(function() {
+$("#topbar input:text").blur(function() {
   if( $(this).val() == '' ){
     $(this).animate({ width: '25px', paddingLeft: '0', paddingRight: '0' }, 800, 'easeInOutExpo');
     $(this).parent().parent().animate({ width: '25px'}, 800, 'easeInOutExpo');

@@ -436,6 +436,7 @@ if ( !is_admin() ):
   wp_register_style('light', get_template_directory_uri() . '/css/light.css' );
   //wp_register_style('brown', get_template_directory_uri() . '/css/brown.css' );
   //wp_register_style('navy', get_template_directory_uri() . '/css/navy.css' );
+  wp_register_style('sfd', get_template_directory_uri() . '/css/sfd.css' );
     
 
   if( has_shortcode('image') ||
@@ -504,6 +505,7 @@ if ( !is_admin() ):
 //  }
   else {
   wp_enqueue_style('light');
+  wp_enqueue_style('sfd');
   }
   
 endif;

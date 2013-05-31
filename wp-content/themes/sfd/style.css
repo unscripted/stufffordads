@@ -9,3 +9,15 @@ Version:        1
 */
 
 @import url("../moustachey/style.css");
+@import url("gin.css");
+
+h1, h2, h2 a 		{ font-family: "Gin-Regular" !important; }
+
+header nav 			{ padding: 25px 0 0 0; }
+span.site-title a 	{ padding: 0 20px 10px; border-bottom: 1px solid #7d7979; }
+
+
+
+.content,
+.home-content 		{ width: 60%; }
+.sidebar 			{ width: 30%; }
